@@ -15,5 +15,9 @@ public class MainActivity extends AppCompatActivity {
     public void umur() {
 
     }
+ public void umu2r() {
+
+    }
+
 }
 
